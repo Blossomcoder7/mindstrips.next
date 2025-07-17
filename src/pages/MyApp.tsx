@@ -1,7 +1,7 @@
 import { CiSearch } from "react-icons/ci";
 import "../App.css";
 import logo from "../assets/image/LOGO.png";
-import logoViedo from "../assets/Viedo/LogoVideo.mp4";
+import logoViedo from "../assets/viedo/LogoVideo.mp4";
 
 import { useState } from "react";
 import { RiContactsFill } from "react-icons/ri";
